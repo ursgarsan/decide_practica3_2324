@@ -1,5 +1,3 @@
-kyjfiuv
-
 Plataforma voto electrónico educativa
 =====================================
 
